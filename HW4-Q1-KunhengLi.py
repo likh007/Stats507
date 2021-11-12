@@ -1,4 +1,4 @@
-# # Homework 5
+# # Homework 4
 # *Kunheng Li(kunhengl@umich.edu)*
 # *Nov 5, 2021*
 # -*- coding: utf-8 -*-
@@ -6,10 +6,6 @@
 import pandas as pd
 from os.path import exists
 
-
-# ## Question 3
-# In this question we clean an append demographic and dentition data from
-# several cohorts of the NHANES data. 
 
 # file location: -------------------------------------------------------------
 path = './'
